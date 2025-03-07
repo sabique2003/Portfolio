@@ -7,7 +7,7 @@ function ContactUs() {
     <>
   <div className="d-flex flex-column align-items-center justify-content-center container-fluid p-3" style={{ height: "100vh" }}>
     {/* Center the title */}
-    <h2 className="mb-4">Contact Us</h2>
+    <h2 className="mb-4">Contact Me</h2>
 
     {/* Center the small box below the title */}
     <div className="w-75 border border-2 border-shadow-3 p-4 bg-light">
