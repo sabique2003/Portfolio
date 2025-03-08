@@ -14,7 +14,6 @@ function App() {
      <BrowserRouter>
       <Header/>
       <Intro/>
-      <Works/>
       <AboutUs/>
       <ContactUs/>
       <Footer/>

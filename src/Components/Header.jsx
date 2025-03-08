@@ -24,16 +24,7 @@ function Header() {
                 PortFolio
               </Navbar.Brand>
             </Col>
-            <Col xs="auto">
-              <Form className="d-flex">
-                <Form.Control
-                  type="text"
-                  placeholder="Search"
-                
-                />
-                <Button type="submit" className='ms-2'><i className="fa-solid fa-magnifying-glass"/></Button>
-              </Form>
-            </Col>
+            
           </Row>
         </Container>
       </Navbar>
